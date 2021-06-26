@@ -30,7 +30,8 @@ The CNN classification is a technique to segregate the data according to differe
 13. Model Fitting: Now we will train the data for a fixed number of epochs and batch size.
 14. Preparing the testing dataset: We will create a testing generator for generating the test dataset using the previously loaded test images.
 15. Prediction: Now, we will be predicting the result for the test dataset and using the model evaluated earlier.
-16. Output will be as follows : 
+
+17. Output will be as follows : 
 Image name as :- actual_name(image name{0 or 1}) , eg. autistic.127.jpg(1) , here 0/1 is prediction.
 17. Our predictions will next go to submission_13010030.csv. 
 This file contains the predicted result, and further we will calculate its accuracy , precision etc. 
@@ -56,4 +57,4 @@ This file contains the predicted result, and further we will calculate its accur
 * Sensitivity is:  80.83832335329342 %
 * Specificity is:  88.7218045112782 %
 
-
+Demo Video : https://drive.google.com/file/d/1KLa4vEWLMmOdit_h9RmTulsF5Nzr4MVh/view?usp=sharing
